@@ -4,7 +4,7 @@
 # Git Basics For Beginners
 https://git-basics-blog.hashnode.dev/git-basics-for-beginners
 
-# Why Version Control Exists: The Pen drive Problem
+# Why Version Control Exists: The Pen Drive Problem
 https://the-need-for-version-control.hashnode.dev/why-version-control-exists
 
 # Inside Git: How Git Works and the Role of the .git Folder
@@ -27,6 +27,9 @@ https://understanding-tcp-and-udp.hashnode.dev/tcp-vs-udp-when-to-use
 
 # TCP Working: 3-Way Handshake & Reliable Communication
 https://3-way-handshake-working-of-tcp.hashnode.dev/tcp-working-3-way-handshake
+
+# How a Browser Works: A Beginner-Friendly Guide to Browser Internals
+https://how-a-browser-works-a-beginners-guide.hashnode.dev/how-a-browser-works?showSharer=true
 
 # Understanding HTML Tags and Elements
 https://overview-of-html-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements
